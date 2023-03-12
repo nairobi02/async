@@ -1,3 +1,4 @@
+//Read a content of first.txt then read content of second.txt then put content of first.txt and second.txt into third.txt
 const fs = require('fs')
 const result = {
   first: "",
